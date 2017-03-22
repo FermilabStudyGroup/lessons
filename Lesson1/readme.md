@@ -5,10 +5,9 @@ Short guide on how to get a nice scientific python environment working quickly w
 
 * Download the command line installer for Python 2.7
 
-* If you are on the gpvm, you can just do:
+* And let's launch the installation with:
 
 ```
-wget "https://repo.continuum.io/archive/Anaconda2-4.2.0-Linux-x86_64.sh" -O anaconda.sh
 chmod +x anaconda.sh  
 ./anaconda.sh
 ```
