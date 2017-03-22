@@ -1,0 +1,12 @@
+Do you wish the installer to prepend the Anaconda2 install location
+to PATH in your /Users/testuser/.bash_profile ? [yes|no]
+[yes] >>> no
+
+You may wish to edit your .bashrc or prepend the Anaconda2 install location:
+
+$ export PATH=/Users/testuser/anaconda2/bin:$PATH
+
+Thank you for installing Anaconda2!
+
+Share your notebooks and packages on Anaconda Cloud!
+Sign up for free: https://anaconda.org
