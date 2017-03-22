@@ -56,12 +56,6 @@ root -b -q
 
 * If it works, hurray! If it doesn't don't worry, we'll fix it later. For now we'll be interested in the notebooks.
 
-* If your ROOT installation worked, you can also try to install RootNumpy (but must be installed outside the environment, for some reason):
-
-```
-conda install -f root-numpy
-```
-
 * Done! Anytime you need your new virtual environment, all you need to do is:
 
 ```
